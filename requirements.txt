@@ -1,0 +1,15 @@
+Pillow
+Tkinter
+numpy
+opencv-python
+
+Steps to Create It:
+
+Open your project folder.
+Create a new file named requirements.txt.
+Copy and paste the above content.
+Save the file.
+
+To install the dependencies on another system, use:
+
+pip install -r requirements.txt
