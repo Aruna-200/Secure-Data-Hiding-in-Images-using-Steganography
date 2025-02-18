@@ -1,4 +1,4 @@
-# Secure-Data-Hiding-in-Images-using-Steganography
+
 # Secure Data Hiding in Images using Steganography
 
 ## Project Description
